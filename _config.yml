@@ -1,4 +1,5 @@
 # site settings
+theme: jekyll-theme-Forty
 title: Azure
 subtitle: by Azure official
 email: soniaskhanvilkar@gmail.com
