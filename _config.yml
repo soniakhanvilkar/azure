@@ -1,0 +1,40 @@
+# site settings
+title: Azure
+subtitle: by Azure official
+email: soniaskhanvilkar@gmail.com
+description: Our buisness
+baseurl: # the subpath of your site, e.g. /blog
+url: https://soniakhanvilkar.azure.github.io
+author: sonia khanvilkar
+street_address: canyon crest academy
+city: san diego
+state: california
+zip_code: 92130
+country: united states of america
+phone: contact: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  Instagram:
+  Twitter: 
+  Facebook:
+  Tik tok:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
